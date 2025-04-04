@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import ApiCall from './apiCall'
+import ApiCall from './ApiCall'
 
 import './App.css'
 
